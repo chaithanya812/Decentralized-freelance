@@ -21,6 +21,17 @@ A blockchain-based freelance marketplace that eliminates intermediaries between 
         └── utils/
 ```
 
+## Description
+
+This is a decentralized freelance platform built on blockchain technology that directly connects clients and freelancers without intermediaries. The platform uses smart contracts to handle project management and secure payments through an escrow system.
+
+Key features:
+- Trustless payment system using smart contract escrow
+- Direct communication between clients and freelancers
+- Transparent and immutable project history on the blockchain
+- Decentralized file storage using IPFS
+- Web3 wallet integration for authentication and payments
+
 ## Technologies
 
 - Solidity (Smart Contracts)
