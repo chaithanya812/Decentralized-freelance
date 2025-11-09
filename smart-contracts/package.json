@@ -1,0 +1,18 @@
+{
+  "name": "decentralized-freelance-platform-contracts",
+  "version": "1.0.0",
+  "description": "Smart contracts for the Decentralized Freelance Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "smart-contracts",
+    "solidity",
+    "freelance",
+    "blockchain"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
